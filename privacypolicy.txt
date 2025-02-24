@@ -1,0 +1,28 @@
+Privacy Policy for Timestamp App
+
+Last Updated: 24-Feb-2025
+
+This privacy policy explains how we collect, use, and protect your data when you use our Timestamp App.
+
+Information We Collect:
+- Timestamps created when you press buttons in the app
+- Basic device information required by Android
+
+How We Use Your Information:
+- All timestamp data is stored locally on your device
+- Data is only shared when you choose to send it via email
+- We do not collect or transmit your data to any servers
+
+Data Storage and Security:
+- All data is stored locally on your device
+- You can delete all data using the Reset Counter button
+
+Third-Party Services:
+- This app does not use any third-party analytics or tracking services
+
+Your Rights:
+- You have complete control over your data
+- You can delete all stored timestamps using the Reset function
+
+Contact:
+If you have questions about this privacy policy, please contact jeff.r.parent@gmail.com.
